@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-align: center;
+}
+hr{
+    max-width: 300px;
+    height: 10px;
+    background-color: royalblue;
+}
+div{
+    border: 2px dotted #000;
+    padding: 1.5rem;
+    text-align: center;
+}
